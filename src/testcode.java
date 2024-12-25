@@ -3,6 +3,6 @@ public class testcode {
         System.out.println("eeeee, World!");
     }
     public static void aaaaa (String[] args) {
-        System.out.println("eeeee, baaaaaaa!");
+        System.out.println("eeeee, gggggaaaaaweeee!");
     }
 }
